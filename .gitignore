@@ -160,6 +160,3 @@ cython_debug/
 #.idea/
 
 .DS_Store
-
-
-jupyter nbconvert --to html ./notebooks/group3_fashionmnist_classification.ipynb --output-dir ./docs --TagRemovePreprocessor.enabled=True --TagRemovePreprocessor.remove_input_tags="['noshow']"
